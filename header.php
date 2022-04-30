@@ -1,7 +1,7 @@
 <style type="text/css">
 <!--
 a {
-	color: #FF6699;
+	color: #FF6687;
 	font-weight: normal;
 	text-decoration: none;
 }
